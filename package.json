@@ -1,0 +1,9 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Mark Lyck Portfolio",
+  "main": "index.js",
+  "repository": "git@github.com:MarkLyck/portfolio.git",
+  "author": "Mark Lyck",
+  "license": "MIT"
+}
